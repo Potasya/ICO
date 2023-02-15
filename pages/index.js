@@ -371,7 +371,7 @@ export default function Home() {
         </Head>
         <div className={styles.main}>
           <div>
-            <h1 className={styles.title}>Welcome to Crypto Devs ICO!</h1>
+            <h1 className={styles.title}>Welcome to Potasya ICO!</h1>
             <div className={styles.description}>
               You can claim or mint Crypto Dev tokens here
             </div>
